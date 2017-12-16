@@ -1,0 +1,6 @@
+{
+    "files.encoding": "cp852",
+    "files.associations": {
+        "*.asm" : "asm"
+    }
+}

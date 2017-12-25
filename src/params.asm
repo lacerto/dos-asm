@@ -2,8 +2,6 @@ org 100h
 use16
 
 start:
-        push ds
-        pop es
         mov di, param
         mov si, 80h
         mov cl, [si]
